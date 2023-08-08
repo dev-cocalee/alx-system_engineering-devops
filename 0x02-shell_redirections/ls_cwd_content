@@ -1,0 +1,30 @@
+total 52
+drwxrwxr-x 2 zeecaptcha zeecaptcha 4096 Aug  7 20:34 .
+drwxrwxrwx 6 zeecaptcha zeecaptcha 4096 Aug  7 15:19 ..
+-rwxrwx-wx 1 zeecaptcha zeecaptcha   32 Aug  7 17:22 0-hello_world
+-rwxrwx-wx 1 zeecaptcha zeecaptcha    0 Aug  7 15:57 10-no_more_js
+-rwxrwx-wx 1 zeecaptcha zeecaptcha    0 Aug  7 15:57 11-directories
+-rwxrwx-wx 1 zeecaptcha zeecaptcha    0 Aug  7 15:57 12-newest_files
+-rwxrwx-wx 1 zeecaptcha zeecaptcha    0 Aug  7 15:57 13-unique
+-rwxrwx-wx 1 zeecaptcha zeecaptcha    0 Aug  7 15:57 14-findthatword
+-rwxrwx-wx 1 zeecaptcha zeecaptcha    0 Aug  7 15:57 15-countthatword
+-rwxrwx-wx 1 zeecaptcha zeecaptcha    0 Aug  7 15:57 16-whatsnext
+-rwxrwx-wx 1 zeecaptcha zeecaptcha    0 Aug  7 15:57 17-hidethisword
+-rwxrwx-wx 1 zeecaptcha zeecaptcha    0 Aug  7 15:57 18-letteronly
+-rwxrwx-wx 1 zeecaptcha zeecaptcha    0 Aug  7 15:57 19-AZ
+-rwxrwx-wx 1 zeecaptcha zeecaptcha   29 Aug  7 17:22 1-confused_smiley
+-rwxrwx-wx 1 zeecaptcha zeecaptcha    0 Aug  7 15:57 20-hiago
+-rwxrwx-wx 1 zeecaptcha zeecaptcha    0 Aug  7 15:57 21-reverse
+-rwxrwx-wx 1 zeecaptcha zeecaptcha    0 Aug  7 15:57 22-users_and_homes
+-rwxrwx-wx 1 zeecaptcha zeecaptcha   28 Aug  7 17:22 2-hellofile
+-rwxrwx-wx 1 zeecaptcha zeecaptcha   39 Aug  7 17:22 3-twofiles
+-rwxrwx-wx 1 zeecaptcha zeecaptcha   35 Aug  7 17:22 4-lastlines
+-rwxrwx-wx 1 zeecaptcha zeecaptcha   35 Aug  7 17:22 5-firstlines
+-rwxrwx-wx 1 zeecaptcha zeecaptcha   40 Aug  7 17:22 6-third_line
+-rwxrwx-wx 1 zeecaptcha zeecaptcha  100 Aug  7 20:30 7-file
+-rwxrwx-wx 1 zeecaptcha zeecaptcha   36 Aug  7 20:33 8-cwd_state
+-rwxrwx-wx 1 zeecaptcha zeecaptcha    0 Aug  7 15:57 9-duplicate_last_line
+-rw-rw-r-- 1 zeecaptcha zeecaptcha   12 Aug  7 20:30 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 zeecaptcha zeecaptcha  912 Aug  7 16:29 iacta
+-rw-rw-r-- 1 zeecaptcha zeecaptcha    0 Aug  7 20:34 ls_cwd_content
+-rwxrwx-wx 1 zeecaptcha zeecaptcha    0 Aug  7 15:57 README.md
